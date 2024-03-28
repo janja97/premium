@@ -105,6 +105,8 @@ export default defineComponent({
         { id: '1', type: '2', UrlImg: 'home1/peope (24).jpeg', alt: 'image-slug', class: 'vertical' },
         { id: '5', type: '2', UrlImg: 'home1/peope (19).jpeg', alt: 'image-slug', class: 'vertical' },
         { id: '2', type: '2', UrlImg: 'home1/peope (17).jpeg', alt: 'image-slug', class: 'vertical' },
+        { id: '3', type: '2', UrlImg: 'home1/peope (4).jpeg', alt: 'image-slug', class: 'vertical' },
+
         { id: '3', type: '2', UrlImg: 'home1/peope (6).jpeg', alt: 'image-slug', class: 'vertical' },
         { id: '5', type: '2', UrlImg: 'home1/peope (39).jpeg', alt: 'image-slug', class: 'vertical' },
       ],
