@@ -25,11 +25,11 @@ export default {
 <style setup>
 .header {
     padding-top:200px; 
-    background-image:url('/public/bac/svadba.jpeg');
+    background-image:url('/public/bac/bac.jpeg');
     position: relative;
-    background-position: center;
-    background-size: cover;
     background-attachment: fixed;
+    background-size: cover;
+    background-position: bottom;
     /* margin-bottom: 100px; */
     width: 100%;
     height: calc(100vh - 100px);
@@ -37,7 +37,7 @@ export default {
 }
 @media screen and (max-width:991px){
     .header {
-        background-image: url('/public/bac/svadba-mob.jpeg');
+        background-image: url('/public/bac/bac.jpeg');
         background-position: center;
         background-size: cover;
         background-attachment: fixed;

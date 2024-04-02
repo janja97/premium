@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <h5 style="color:black !important;">Let's discuss your business ideas below!</h5>
-    <form action="https://formsubmit.co/photographybuba@gmail.com" method="POST" class="form">
+    <form action="https://formsubmit.co/premiummphotography@gmail.com" method="POST" class="form">
       <div class="d-flex justify-content-between">
         <input type="text" id="name" placeholder="Name*">
         <input type="email" name="email"  placeholder="Email*" required>
