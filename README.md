@@ -10,6 +10,13 @@ yarn install
 yarn serve
 ```
 
+
+### Installing packages with engine ignoring
+```
+
+yarn install --ignore-engines
+```
+
 ### Compiles and minifies for production
 ```
 yarn build
@@ -24,6 +31,4 @@ yarn lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 # premium
 # faruk
-# premium
-# premium
-# premium
+
