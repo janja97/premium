@@ -37,7 +37,7 @@ export default {
 }
 @media screen and (max-width:991px){
     .header {
-        background-image: url('/public/bac/bac.jpeg');
+        background-image: url('/public/bac/bac-mobile.jpeg');
         background-position: center;
         background-size: cover;
         background-attachment: fixed;
